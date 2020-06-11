@@ -1,0 +1,20 @@
+{
+  "name": "sgdapigreenh",
+  "version": "1.0.0",
+  "description": "Sustain Development Goals REST API NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "RESTAPI",
+    "SDG",
+    "TECHBUZS"
+  ],
+  "author": "Oreofe Solarin",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
