@@ -15,6 +15,6 @@
   "author": "Oreofe Solarin",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.1"
+    "express": "^4.17.1"
   }
 }
